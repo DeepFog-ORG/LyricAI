@@ -23,6 +23,9 @@
     ```bash
     pip install openai
     ```
+    
+简单说就是直接下下来也行
+
 
 ### 设置
 在脚本中用你的实际 OpenAI API 密钥替换 `your_api_key_here`：
